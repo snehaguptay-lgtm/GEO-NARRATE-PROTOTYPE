@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Database & local state
+*.db
+*.sqlite
+.env
+.DS_Store
+
+# Build outputs
+frontend/dist/
+frontend/dist-ssr/
+*.local

@@ -1,5 +1,9 @@
 @import "leaflet/dist/leaflet.css";
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
   --bg-dark: #080d1a;
   --bg-card: #0f172a;
